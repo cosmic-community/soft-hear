@@ -5,6 +5,7 @@ export default function Header() {
     <header className="border-b border-border bg-cream/80 backdrop-blur-sm sticky top-0 z-40">
       <div className="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
         <Link href="/" className="group">
+          <meta name="google-site-verification" content="qPqaQH2JvT7qFLOASUi0JWdP5XuhccxKLQczrWh52XM" />
           <h1 className="text-2xl font-bold tracking-tight text-ink">
             Soft<span className="text-accent">Hear</span>
           </h1>
